@@ -1,4 +1,13 @@
 class movie(object):
+    """ This defines the movie class.
+
+    Args:
+        title (str): the title of the movie
+        poster_image_url (str): the url of the movie poster image
+        trailer_youtube_url (str): the Youtube url of the movie
+        movie_year (str): year of the movie
+
+    """
 
     def __init__(
             self,
