@@ -15,10 +15,10 @@ A small website listing out some handpicked movies with their title, poster imag
 - Clone the repo 
 
 ```bash
-$ git clone 
+$ git clone https://github.com/jackiey99/udacity_movietrailer.git
 ```
 
-- Go the repo directory and run the following command
+- Go the directory and run the following command
 
 ```bash
 $ python entertainment_center.py
